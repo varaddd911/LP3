@@ -1,4 +1,4 @@
-public class NQueensFirstQueen {
+public class DAA_NQueensFirstQueen {
 
     // Function to check if a queen can be placed at board[row][col]
     static boolean isSafe(int[][] board, int row, int col, int n) {

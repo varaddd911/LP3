@@ -1,6 +1,4 @@
-import java.util.*;
-
-public class Exp_4 {
+public class DAA_Exp_4 {
 
     static int knapsack(int[] values, int[] weights, int capacity) {
         int n = values.length;
