@@ -10,7 +10,7 @@ class Item {
     }
 }
 
-public class Exp_3 {
+public class DAA_Exp_3 {
     static double fractionalKnapsack(Item[] items, int capacity) {
         // Sort items by value/weight ratio in descending order
         Arrays.sort(items, (a, b) -> Double.compare((double) b.value / b.weight, (double) a.value / a.weight));

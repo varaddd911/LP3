@@ -1,4 +1,4 @@
-public class DAA_Exp_4 {
+public class Knapsack_DP {
 
     static int knapsack(int[] values, int[] weights, int capacity) {
         int n = values.length;
